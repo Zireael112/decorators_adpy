@@ -1,0 +1,54 @@
+Start - 2022-07-19 16:21:47.927276
+Time - 0:00:02.016033
+Name - squaring
+Arguments - (2, 4)
+Value - 16
+
+Start - 2022-07-19 16:21:51.868574
+Time - 0:00:02.006448
+Name - squaring
+Arguments - (2, 4)
+Value - 16
+
+Start - 2022-07-19 16:21:55.452830
+Time - 0:00:02.011182
+Name - squaring
+Arguments - (2, 4)
+Value - 16
+
+Start - 2022-07-19 16:22:02.216012
+Time - 0:00:02.004054
+Name - squaring
+Arguments - (3, 4)
+Value - 81
+
+Start - 2022-07-19 16:23:41.962003
+Time - 0:00:02.007032
+Name - squaring
+Arguments - (3, 4)
+Value - 81
+
+Start - 2022-07-19 16:35:49.202246
+Time - 0:00:02.008199
+Name - squaring
+Arguments - (4, 3)
+Value - 64
+
+Start - 2022-07-19 17:08:51.984687
+Time - 0:00:02.531371
+Name - take_int
+Arguments - ('https://superheroapi.com/api/2619421814940190/search/Hulk',)
+Value - None
+
+Start - 2022-07-19 17:08:54.517065
+Time - 0:00:02.039247
+Name - take_int
+Arguments - ('https://superheroapi.com/api/2619421814940190/search/Captain America',)
+Value - None
+
+Start - 2022-07-19 17:08:56.557312
+Time - 0:00:02.204451
+Name - take_int
+Arguments - ('https://superheroapi.com/api/2619421814940190/search/Thanos',)
+Value - None
+
